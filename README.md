@@ -32,5 +32,6 @@ Stacked Column Chart: Revealed that the 26-35 age group had the highest attritio
 **Funnel Chart:** Illustrated attrition count by monthly salary ranges.
 **Area Chart:** Displayed attrition trends based on years with the company.
 Stacked Bar Chart: Identified the top three job roles with the highest attrition counts.
-Conclusion
+
+**Conclusion**
 This HR Analytics Dashboard provides vital insights into employee trends that can drive better decision-making, improve employee satisfaction, and enhance retention. By addressing key issues affecting employees and fostering a positive work environment, the organization can promote better performance and long-term employee engagement.
