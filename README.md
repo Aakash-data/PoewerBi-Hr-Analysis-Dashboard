@@ -1,4 +1,4 @@
-# PoewerBi-Hr-Analysis-Dashboard
+# PoewerBi-Hr-Analytics-Dashboard
 **Objective**
 The goal of this project is to support an organization in enhancing employee performance and reducing attrition by developing an "HR Analytics Dashboard." This dashboard delivers critical insights into employee data, enabling data-driven decisions that foster employee satisfaction and retention.
 
