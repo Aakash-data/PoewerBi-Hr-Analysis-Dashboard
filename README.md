@@ -26,10 +26,14 @@ Charts and Insights
 Various charts and visualizations were used to derive meaningful insights from the employee data. Key insights include:
 
 **Treemap Chart**: Showed the distribution of attrition by gender. The data revealed that 136 males and 76 females left the company, indicating a higher attrition rate among male employees.
-Pie Chart: Displayed attrition count by education field.
+
+**Pie Chart:** Displayed attrition count by education field.
 Stacked Column Chart: Revealed that the 26-35 age group had the highest attrition count, with 111 employees leaving the company.
+
 **Matrix Table:** Showcased job roles alongside job satisfaction scores, with significant values highlighted in blue.
+
 **Funnel Chart:** Illustrated attrition count by monthly salary ranges.
+
 **Area Chart:** Displayed attrition trends based on years with the company.
 Stacked Bar Chart: Identified the top three job roles with the highest attrition counts.
 
